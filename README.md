@@ -11,6 +11,7 @@
 
 ### Objetivos do Projeto
 
+  - Utilizar React com componentes funcionais
   - Utilizar _Redux_ para gerenciar estado
   - Utilizar a biblioteca _React-Redux_
   - Utilizar a Context API do _React_ para gerenciar estado
